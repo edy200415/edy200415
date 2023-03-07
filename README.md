@@ -1,7 +1,7 @@
 ### Olá me Chamo Edycleuton Ramos Lima 👋
 
 - 💼 Hoje trabalho como estagiário na Aliare
-- 📗 Estudando C#
+- 📗 Estudando Programação
 
 <div align="center">
   <a href="https://github.com/edy200415">
